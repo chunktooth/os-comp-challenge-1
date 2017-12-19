@@ -10,7 +10,7 @@ Most images were sent to me by both of his daughters. I utilized icon images tha
 The site composition should be responsive to most popular mobile device- Samsung Galaxy series and iPhone 5-8
 
 ## My Static Comp
-!(https://github.com/chunktooth/os-comp-challenge-1/blob/master/os-static-comp-1.png)
+![MA COMP](os-static-comp-1.png)
 
 ## The Original Comp
-!(https://github.com/chunktooth/os-comp-challenge-1/blob/master/static-comp-og.png)
+![YO COMP](static-comp-og.png)
